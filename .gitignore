@@ -1,0 +1,5 @@
+.env
+log.txt
+queue.json
+queue-*.json
+__pycache__/

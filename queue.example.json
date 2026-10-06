@@ -1,0 +1,4 @@
+[
+  "A single tweet goes here.",
+  {"thread": ["First tweet of a thread 🧵", "Second tweet", "Last tweet"]}
+]
